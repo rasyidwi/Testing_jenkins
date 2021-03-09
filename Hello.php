@@ -1,1 +1,3 @@
-<?php echo "Hello Testing Jenkins"; ?>
+<?php echo "Hello Testing Jenkins"; 
+echo "Testing";
+?>
